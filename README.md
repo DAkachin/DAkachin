@@ -1,3 +1,3 @@
-## D,A,kachin
+## D.A.kachin
 
 Java Engineer
